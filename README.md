@@ -7,3 +7,4 @@ Projeto da disciplina de introdução a ciência de dados.
 
 * Link para dataset no kaggle: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 * Link para video da parte um no youtube: https://youtu.be/DLIir3LVfhw
+* Link para video da parte 2 no youtube: https://youtu.be/8bX7mrzJ5rg
